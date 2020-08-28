@@ -1,3 +1,1 @@
-# Class-Activation-Mapping-of-FashionMNIST-Pytorch-
-# Class-Activation-Mapping-of-FashionMNIST-Pytorch-
-# Class-Activation-Mapping-of-FashionMNIST-Pytorch-
+Implementation of Class activation mapping from the original paper "Learning Deep Features for Discriminative Localization" by Bolei Zhou, Aditya Khosla, Agata Lapedriza, Aude Oliva, Antonio Torralba.
